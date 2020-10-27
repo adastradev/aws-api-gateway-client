@@ -1,6 +1,6 @@
 {
   "name": "@adastradev/aws-api-gateway-client",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A module for AWS API Gateway client",
   "repository": {
     "type": "git",
